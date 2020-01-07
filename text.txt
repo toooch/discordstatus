@@ -1,1 +1,2 @@
-https://toooch.github.io/discordstatuschecker
+'https://toooch.github.io/discordstatusgen/'
+'https://toooch.github.io/4178583341/'
