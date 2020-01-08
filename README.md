@@ -1,9 +1,10 @@
 # Discord Status Checker
 
-This repository shows the code of an HTML widget checking the status of Discord's services.
+Check Discord's online status with this HTML widget.
 
-Using the JSON on the source site, I have created this widget, free to use and put on your website.
-Please do not share a changed version of this without my consent.
+# How to use
+
+
 
 Source: https://status.discordapp.com/api/v2/status.json
 Contact me on Discord [here].
