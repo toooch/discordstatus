@@ -6,7 +6,7 @@ Check Discord's online status with this HTML widget.
 
 Paste this snippet in your file:
 
-`<iframe style="height:130px;width:470px;border:none" src="https://toooch.github.io/discordstatus/source.htm">`
+`<iframe style="height:126px;width:468px;border:none" src="https://toooch.github.io/discordstatus/source.htm">`
 
 ## Source and contact
 
